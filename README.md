@@ -10,8 +10,7 @@ All ideas are welcome!  The list below is not a priority order, but rather just 
 
 - Full Stack Kafka environment
 - Add Monitoring (Prometheus and Grafana) to exisitng projects where it makes sense
--
 
 
 ## Completed Ideas
-- ~~example completed idea until we do one :-)~~
+- ~~Added Monitoring (Prometheus and Grafana) to learn-postgresql~~
