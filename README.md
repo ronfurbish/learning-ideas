@@ -8,9 +8,11 @@ All ideas are welcome!  The list below is not a priority order, but rather just 
 
 ## Ideas of projects to help create
 
-- Full Stack Kafka environment (In Progress) in [learn-kafka](https://github.com/ronfurbish/learn-kafka)
+
 - Add Monitoring (Prometheus and Grafana) to exisitng projects where it makes sense
+- MariaDB
 
 
 ## Completed Ideas
 - ~~Added Monitoring (Prometheus and Grafana) to [learn-postgresql](https://github.com/ronfurbish/learn-postgresql)~~
+- ~~Full Stack Kafka environment in [learn-kafka](https://github.com/ronfurbish/learn-kafka)~~
