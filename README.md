@@ -11,6 +11,7 @@ All ideas are welcome!  The list below is not a priority order, but rather just 
 
 - Add Monitoring (Prometheus and Grafana) to exisitng projects where it makes sense
 - MariaDB
+- MongoDB
 
 
 ## Completed Ideas
