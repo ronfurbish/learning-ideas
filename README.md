@@ -17,4 +17,4 @@ All ideas are welcome!  The list below is not a priority order, but rather just 
 ## Completed Ideas
 - ~~Added Monitoring (Prometheus and Grafana) to [learn-postgresql](https://github.com/ronfurbish/learn-postgresql)~~
 - ~~Full Stack Kafka environment in [learn-kafka](https://github.com/ronfurbish/learn-kafka)~~
-- ~~ MongoDB in [https://github.com/ronfurbish/learn-kafka]~~
+- ~~MongoDB in [learn-mongodb](https://github.com/ronfurbish/learn-mongodb)~~
