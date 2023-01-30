@@ -8,13 +8,13 @@ All ideas are welcome!  The list below is not a priority order, but rather just 
 
 ## Ideas of projects to help create
 
-
 - Add Monitoring (Prometheus and Grafana) to exisitng projects where it makes sense
 - MariaDB
-
+- Oracle database
 
 
 ## Completed Ideas
+
 - ~~Added Monitoring (Prometheus and Grafana) to [learn-postgresql](https://github.com/ronfurbish/learn-postgresql)~~
 - ~~Full Stack Kafka environment in [learn-kafka](https://github.com/ronfurbish/learn-kafka)~~
 - ~~MongoDB in [learn-mongodb](https://github.com/ronfurbish/learn-mongodb)~~
